@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a student.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning DSA, Frontend Development<br>💬 Ask me about Problem Solving<br>⚡ Fun fact - I'm very much foody🤗
+🔭 I’m currently working as a student.<br>🤝 I’m looking for help with growing the DSA skills.<br>🌱 I’m currently learning DSA, Frontend Development.<br>💬 Ask me about Problem Solving.<br>⚡ Fun fact - I'm very much foody🤗.
 
 
 ## 🌐 Socials:
